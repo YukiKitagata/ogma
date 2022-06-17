@@ -75,7 +75,7 @@
     "@nrwl/node": "14.3.6",
     "@nrwl/nx-cloud": "14.1.1",
     "@nrwl/workspace": "14.3.6",
-    "@nx-plus/docusaurus": "13.0.1",
+    "@nx-plus/docusaurus": "13.0.2",
     "@swc/cli": "^0.1.55",
     "@swc/core": "^1.2.141",
     "@swc/register": "^0.1.10",
